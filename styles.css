@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+
+.dice{
+    display: flex;
+    text-align: center;
+}
+
+.dice1{
+    width : 50%;
+    text-align: center;
+}
+
+.dice2{
+    width : 50%;
+    text-align: center;
+}
